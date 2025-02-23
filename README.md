@@ -13,7 +13,7 @@ A Vue.js-based horse racing game with Vuex state management and comprehensive te
 ## 📋 Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn package manager
+- npm package manager
 
 ## 🛠️ Installation
 
@@ -21,15 +21,13 @@ A Vue.js-based horse racing game with Vuex state management and comprehensive te
 
 ```bash
 git clone <repository-url>
-cd at-yarisi-2
+cd horse-racing-game
 ```
 
 2. Install dependencies:
 
 ```bash
 npm install
-# or
-yarn install
 ```
 
 ## 🎮 Usage
@@ -40,8 +38,6 @@ To run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 The application will be available at `http://localhost:5173`
@@ -52,16 +48,12 @@ To create a production build:
 
 ```bash
 npm run build
-# or
-yarn build
 ```
 
 To preview the production build:
 
 ```bash
 npm run preview
-# or
-yarn preview
 ```
 
 ## 🧪 Testing
@@ -72,24 +64,18 @@ The project uses Vitest for testing. The following test commands are available:
 
 ```bash
 npm run test
-# or
-yarn test
 ```
 
 ### Run Tests with UI
 
 ```bash
 npm run test:ui
-# or
-yarn test:ui
 ```
 
 ### Generate Coverage Report
 
 ```bash
 npm run coverage
-# or
-yarn coverage
 ```
 
 ## 📁 Project Structure
