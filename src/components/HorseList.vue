@@ -50,7 +50,7 @@ export default {
   background: white;
   display: flex;
   flex-direction: column;
-  height: 760px;
+  max-height: 80vh;
 }
 
 h2 {

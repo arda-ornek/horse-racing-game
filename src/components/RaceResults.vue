@@ -55,7 +55,7 @@ export default {
 .race-results {
   border: 1px solid #ccc;
   background: white;
-  height: 760px;
+  max-height: 80vh;
   display: flex;
   flex-direction: column;
 }

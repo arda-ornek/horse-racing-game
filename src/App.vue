@@ -126,7 +126,6 @@ h1 {
 .container {
   display: flex;
   gap: 20px;
-  max-width: 1600px;
   margin: 0 auto;
 }
 
